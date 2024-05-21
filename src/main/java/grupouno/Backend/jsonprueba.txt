@@ -1,0 +1,35 @@
+
+CLIENTE:
+
+{
+  "nombre": "NUEVO CLIENTE",
+  "direccion": "quito",
+  "telefono": "000231",
+  "correo": "aaaaa@aaaa.com",
+  "identificador": "Turro",
+  "id": 1,
+  "fecha": "200-11-11"
+}
+Poliza:
+{
+  "cliente": 1,
+  "fechaInicio": "2011-12-12",
+  "tipoPoliza": "Ninguna,
+  "sumaAsegurada": 100
+}
+
+Siniestro:
+{
+  "fechaSiniestro": "2023-10-10",
+  "descripcion": "Se choco",
+  "costoReparacion": 102,
+  "poliza": 1
+}
+
+Registro:
+{
+  "nombre": "Yo",
+  "estado": true,
+  "fecha": "2009-09-09",
+  "cliente": 1
+}
